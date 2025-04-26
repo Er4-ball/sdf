@@ -5,7 +5,7 @@ import random
 from telebot import types
 
 
-TOKEN = "7631533439:AAHIL7So30nSV47ZuNr3emNjDwg621kjMhk"
+TOKEN = os.environ.get("BOT_TOKEN")
 bot = telebot.TeleBot(TOKEN)
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
