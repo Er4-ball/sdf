@@ -1,0 +1,223 @@
+{
+    "smoothies": [
+      {
+        "fruit": "банан",
+        "size": "S",
+        "name": "Банановый Энерджайзер",
+        "recipe": "Банан, йогурт, мед, немного льда, протеин.",
+        "additives": ["протеин"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "S",
+        "name": "Тропическое Наслаждение",
+        "recipe": "Банан, кокосовое молоко, мед, лед, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "S",
+        "name": "Банановый Имбирь",
+        "recipe": "Банан, апельсиновый сок, мед, имбирь.",
+        "additives": ["имбирь"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "M",
+        "name": "Банановый Протеиновый Коктейль",
+        "recipe": "Банан, молоко, протеин, мед.",
+        "additives": ["протеин"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "M",
+        "name": "Бананово-Овсяный Смузи",
+        "recipe": "Банан, овсяные хлопья, йогурт, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "M",
+        "name": "Банановый Детокс",
+        "recipe": "Банан, шпинат, вода, имбирь.",
+        "additives": ["имбирь"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "L",
+        "name": "Банановый Гигант",
+        "recipe": "Банан, арахисовая паста, молоко, протеин.",
+        "additives": ["протеин"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "L",
+        "name": "Банановый Суперфуд",
+        "recipe": "Банан, манго, кокосовое молоко, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "банан",
+        "size": "L",
+        "name": "Банановый Антиоксидант",
+        "recipe": "Банан, черника, имбирь, лимонный сок.",
+        "additives": ["имбирь"],
+        "image": "https://img1.russianfood.com/dycontent/images_upl/586/big_585517.jpg"
+      },
+      {
+        "fruit": "клубника",
+        "size": "S",
+        "name": "Клубничный Протеин",
+        "recipe": "Клубника, йогурт, протеин.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "S",
+        "name": "Клубничные Семена Чиа",
+        "recipe": "Клубника, молоко, мед, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "S",
+        "name": "Клубничный Имбирь",
+        "recipe": "Клубника, апельсиновый сок, имбирь.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "M",
+        "name": "Клубничный Фитнес",
+        "recipe": "Клубника, творог, протеин, вода.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "M",
+        "name": "Клубничный Пудинг",
+        "recipe": "Клубника, миндальное молоко, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "M",
+        "name": "Клубничный Очищающий",
+        "recipe": "Клубника, огурец, имбирь, лимон.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "L",
+        "name": "Клубничный Монстр",
+        "recipe": "Клубника, банан, молоко, протеин.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "L",
+        "name": "Клубничная Энергия",
+        "recipe": "Клубника, малина, йогурт, семена чиа.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "клубника",
+        "size": "L",
+        "name": "Клубничный Имбирный Взрыв",
+        "recipe": "Клубника, ананас, имбирь, мята.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGI175MQUh6Djl9S9EG50nRS70dUNzHBR_YwML_L7czeIcVkJ4DeXn8uhO7SdPKESLI4&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "S",
+        "name": "Зеленый Протеин",
+        "recipe": "Шпинат, яблоко, протеин, вода.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "S",
+        "name": "Зеленые Семена Чиа",
+        "recipe": "Шпинат, груша, семена чиа, вода.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "S",
+        "name": "Зеленый Имбирь",
+        "recipe": "Шпинат, огурец, имбирь, лимон.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "M",
+        "name": "Зеленый Фитнес",
+        "recipe": "Шпинат, киви, протеин, вода.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "M",
+        "name": "Зеленый Пудинг",
+        "recipe": "Шпинат, яблоко, семена чиа, кокосовое молоко.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "M",
+        "name": "Зеленый Детокс",
+        "recipe": "Шпинат, сельдерей, имбирь, лимон.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "L",
+        "name": "Зеленый Гигант",
+        "recipe": "Шпинат, банан, протеин, миндальное молоко.",
+        "additives": ["протеин"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "L",
+        "name": "Зеленый Суперфуд",
+        "recipe": "Шпинат, авокадо, семена чиа, вода.",
+        "additives": ["семена чиа"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      },
+      {
+        "fruit": "шпинат",
+        "size": "L",
+        "name": "Зеленый Антиоксидант",
+        "recipe": "Шпинат, ананас, имбирь, мята.",
+        "additives": ["имбирь"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-L3jk2H6eDpXb9rD49ChNnkS0vTdPZaNm1oILm1iRMuOParQGnbdNXd-KEj0lhmx_TI&usqp=CAU"
+      }
+    ],
+    "fruits": ["банан", "клубника", "шпинат"],
+    "additives": ["протеин", "семена чиа", "имбирь"],
+    "sizes": ["S", "M", "L"]
+  }
